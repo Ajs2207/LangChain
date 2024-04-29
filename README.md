@@ -5,3 +5,6 @@ Different Langchain Components use cases.
 
 2. api:
     This folder consists of implementation of OPENAI API and Ollama (For local model instance). This also consists of LanfServe integration where api interaction with a simple frontend ui is demonstrated.
+
+2. rag:
+    This folder consists of implementation of OPENAI embeddings and Langchain document loader. This also consists of storing the vectors in chroma db and querying the db to get the output.
