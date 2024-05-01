@@ -15,5 +15,5 @@ Different Langchain Components use cases.
 5. agents:
     This folder consists of implementation of Langchain Agents, where we have multiple data sources. Also it consists of implementation of how to create different tools using Langchain Framework.
 
-groq:
+6. groq:
     This folder consists of implementation of GROQ inference along with the use of Ollama Embeddings. Also created a simple ui using streamlit which also encompasses a Document similarity search.
