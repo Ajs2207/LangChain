@@ -11,3 +11,6 @@ Different Langchain Components use cases.
 
 4. chain:
     This folder consists of implementation of OPENAI embeddings and Langchain's Retriever and Chains implementation. This also consists of storing the vectors in FAISS db and querying the db to get the output using retrieval-chain.
+
+5. agents:
+    This folder consists of implementation of Langchain Agents, where we have multiple data sources. Also it consists of implementation of how to create different tools using Langchain Framework.
