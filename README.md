@@ -17,3 +17,6 @@ Different Langchain Components use cases.
 
 6. groq:
     This folder consists of implementation of GROQ inference along with the use of Ollama Embeddings. Also created a simple ui using streamlit which also encompasses a Document similarity search.
+
+7. huggingface:
+    This folder consists of implementation of hugging face models(both llms and embedding models). Also created a RetrievalQA object to connect prompt template and llm.
